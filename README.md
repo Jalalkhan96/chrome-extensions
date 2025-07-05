@@ -19,6 +19,6 @@ This Chrome extension automatically logs you into the CUI SIS portal using your 
 ## 📁 Download
 
 Download the latest release or watch the setup video here:  
-🔽 **[Download ZIP / Watch Setup Video]()** 
+🔽 **[Download ZIP / Watch Setup Video](https://github.com/Jalalkhan96/chrome-extensions/tree/main/code%20file)** 
 
 
