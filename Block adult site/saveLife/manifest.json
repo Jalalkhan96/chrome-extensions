@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "SafeLife Blocker",
+  "version": "1.0",
+  "description": "Blocks adult websites to protect your focus and life.",
+  "permissions": [
+    "declarativeNetRequest",
+    "declarativeNetRequestWithHostAccess"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "blockRules",
+        "enabled": true,
+        "path": "rules.json"
+      }
+    ]
+  },
+  "action": {
+    "default_title": "SafeLife Blocker Active"
+  },
+  
+"content_scripts": [
+  {
+    "matches": ["*://www.youtube.com/*"],
+    "js": ["hideYouTubeShorts.js"],
+    "run_at": "document_idle"
+  }
+]
+
+  
+}
+
