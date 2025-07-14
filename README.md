@@ -50,10 +50,15 @@ SafeLife Blocker is a personal productivity tool designed to **block harmful and
 
 SafeLifeBlocker/
 ├── manifest.json
+
 ├── rules.json
+
 ├── blocked.html
+
 ├── background.js
+
 ├── hideResults.js
+
 ├── hideYouTubeShorts.js
 
 ---
