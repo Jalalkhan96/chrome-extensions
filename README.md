@@ -46,7 +46,7 @@ SafeLife Blocker is a personal productivity tool designed to **block harmful and
 ---
 
 ## 📂 Folder Structure
-
+---
 SafeLifeBlocker/
 ├── manifest.json
 ├── rules.json
