@@ -90,8 +90,6 @@ Chrome extensions don’t work on mobile, but we recommend:
 
 This extension uses:
 - `declarativeNetRequest` to block & redirect sites
-- `content_scripts` to hide unwanted elements
-- HTML/CSS for blocked pages and popup interface
 
 You can modify `rules.json` to block additional sites.
 
