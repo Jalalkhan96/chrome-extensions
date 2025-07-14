@@ -1,4 +1,4 @@
-# 🚫 SafeLife Blocker – Chrome Extension
+# 🚫 Adult Site Blocker – Chrome Extension
 
 SafeLife Blocker is a personal productivity tool designed to **block harmful and distracting websites** like TikTok, Reddit, adult sites, and YouTube Shorts. It helps you **stay focused, motivated**, and aligned with your goals – both spiritually and mentally.
 
