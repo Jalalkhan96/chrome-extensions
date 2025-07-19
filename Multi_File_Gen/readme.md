@@ -39,10 +39,15 @@ pyinstaller --noconsole --onefile --windowed --icon=app_icon.ico MultiFileGenera
 📦 your_project_folder
 
  ┣ 📜 MultiFileGenerator.py
+ 
  ┣ 📜 app_icon.ico
+ 
  ┣ 📁 dist/
+ 
  ┃ ┗ 📦 MultiFileGenerator.exe
- ┗ 📁 build/
+ 
+ ┗ 📁 build
+ 
 ---
 
 ## ✅ Requirements
