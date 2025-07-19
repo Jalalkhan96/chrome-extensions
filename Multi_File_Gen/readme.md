@@ -35,7 +35,9 @@ pip install pyinstaller
 pyinstaller --noconsole --onefile --windowed --icon=app_icon.ico MultiFileGenerator.py
 ```
 ## 📂 Project Structure
+
 📦 your_project_folder
+
  ┣ 📜 MultiFileGenerator.py
  ┣ 📜 app_icon.ico
  ┣ 📁 dist/
